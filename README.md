@@ -90,7 +90,7 @@ A modern e-commerce interface developed with React, focusing on componentization
 
 ### 📊 My GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiicodr&show_icons=true&theme=transparent)
 
 ---
 
