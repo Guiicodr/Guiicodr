@@ -88,12 +88,6 @@ A modern e-commerce interface developed with React, focusing on componentization
 
 ---
 
-### 📊 My GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiicodr&show_icons=true&theme=transparent)
-
----
-
 ### 🤝 Let's connect
 
 📧 [Email](mailto:contatoguilhermehrp@gmail)  
