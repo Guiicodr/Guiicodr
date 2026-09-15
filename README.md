@@ -51,7 +51,7 @@ I'm a developer in training passionate about technology, software development an
 
 Currently studying **Systems Analysis and Development (ADS)** at FATEC Mogi das Cruzes, while building practical projects involving **Java, Spring Boot, REST APIs, databases, React and modern web technologies**.
 
-I'm particularly interested in **Back-End Development**, while continuously expanding my skills in **Front-End Development and Data Analytics**.
+I'm particularly interested in **Software Development**, while continuously expanding my skills in **Machine Learning and Data Analytics**.
 
 ---
 
