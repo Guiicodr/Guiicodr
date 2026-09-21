@@ -91,7 +91,7 @@ A modern e-commerce interface developed with React, focusing on componentization
 ### 🤝 Let's connect
 
 📧 [Email](mailto:contatoguilhermehrp@gmail)  
-💼 [(3) Guilherme Henrique Rodrigues Pamponet | LinkedIn](https://www.linkedin.com/in/guilhermehriq/)  
+💼 [Guilherme Henrique Rodrigues Pamponet | LinkedIn](https://www.linkedin.com/in/guilhermehriq/)  
 💻 [GitHub](https://github.com/Guiicodr)
 
 ---
